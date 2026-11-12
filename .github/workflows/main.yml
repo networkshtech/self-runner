@@ -15,5 +15,5 @@ jobs:
                 file: ./src/Dockerfile                
                 push: false
                 tags: | 
-                  fabricioveronez/self-runner:latest
+                  networkshtech/self-runner:latest
                 
